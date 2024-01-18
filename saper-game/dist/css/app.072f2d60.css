@@ -1,0 +1,1 @@
+.game-board{display:flex;flex-wrap:wrap;width:20cm}.row{flex-basis:20%}.cell,.row{display:flex}.cell{width:2cm;height:2cm;margin:.1cm;background-color:gray;justify-content:center;align-items:center;cursor:pointer}.open{background-color:#fff}#app{text-align:center}
